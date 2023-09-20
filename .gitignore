@@ -1,0 +1,5 @@
+# build dir
+/target
+
+# test dir
+/pyne
